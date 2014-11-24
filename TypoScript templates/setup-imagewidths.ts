@@ -3,8 +3,7 @@ tt_content.image.20 {
 	maxWInText >
 	maxW.cObject = CASE
 	maxW.cObject {
-		key.data = levelfield:-1, backend_layout_next_level, slide
-		key.override.field = backend_layout
+		key.data = page:backend_layout
 		# backend layout with id=1
 		1 = CASE
 		1 {
